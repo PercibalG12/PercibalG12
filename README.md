@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Percival
 - 👀 I’m interested in anything i find cool at the moment.
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, C, React and SQL
 - 💞️ I’m a small time youtuber that enjoys making overview videos on programming topics.
 - 📫 How to reach me ...
 
