@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Percival
-- 👀 I’m interested in anything i find cool at the moment.
-- 🌱 I’m currently learning Python, C, React and SQL
-- 💞️ I’m a small time youtuber that enjoys making overview videos on programming topics.
-- 📫 How to reach me ...
+### Hi there 👋, my name is Percival Roberts
+#### I am computer science student and an aspiring software engineer 
+![I am computer science student and an aspiring software engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!---
-PercibalG12/PercibalG12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: / REACT / JS / HTML / CSS, Python, C, SQL
+
+- 🔭 I’m currently working on a GUI Python application and Python resources  
+- 🌱 I’m currently learning Pyside 6  
+- ⚡ Fun fact: coding is awesome  
+
+
+
+
