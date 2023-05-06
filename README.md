@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: / REACT / JS / HTML / CSS, Python, C, SQL
+### :hammer_and_wrench: Languages and Tools : / REACT / JS / HTML / CSS, Python, C, SQL
 
 - 🔭 I’m currently working on a GUI Python application and Python resources  
 - 🌱 I’m currently learning Pyside 6  
